@@ -13,7 +13,7 @@ int main() {
       if (x[i] == '0') {
         y += '1';
       } else {
-        x += '1';
+        x += '1';  
       }
     }
     cout << y << endl;
